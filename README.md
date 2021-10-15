@@ -1,7 +1,7 @@
 # plotAnything
 I figured out a way to plot graphs using turtle graphics
 
-#How to plot
+# How to plot
 
 Import plotAnything.py:
 
